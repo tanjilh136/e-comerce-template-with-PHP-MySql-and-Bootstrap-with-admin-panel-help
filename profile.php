@@ -2,7 +2,7 @@
 /**
  * Header File of Template
  * Created by PhpStorm.
- * User: Tushar Khan
+ * User: Tanjil Hasan
  * Date: 9/8/2017
  * Time: 6:11 AM
  */
@@ -22,6 +22,7 @@ $categoryObject = new Category();
 $userObject     = new User();
 $cartObject     = new Cart();
 $messageObject  = new Message();
+$allCategoryObject  = new AllCategory();
 ?>
 <?php
 $formateObject = new Formate();
@@ -36,7 +37,7 @@ global $cat;
     <!-- for-mobile-apps -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="author" content="Tushar Khan" />
+    <meta name="author" content="Tanjil Hasan" />
     <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
         function hideURLbar(){ window.scrollTo(0,1); } </script>
     <!-- //for-mobile-apps -->
