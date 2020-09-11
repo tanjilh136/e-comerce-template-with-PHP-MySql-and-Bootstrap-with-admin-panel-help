@@ -2,7 +2,7 @@
 /**
  * Slider Page of Template
  * Created by PhpStorm.
- * User: Tushar Khan
+ * User: Tanjil Hasan
  * Date: 9/8/2017
  * Time: 6:34 AM
  */
