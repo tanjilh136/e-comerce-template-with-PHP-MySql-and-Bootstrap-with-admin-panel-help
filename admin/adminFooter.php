@@ -2,7 +2,7 @@
 /**
  * Admin Footer
  * Created by PhpStorm.
- * User: Tushar Khan
+ * User: Tanjil Hasan
  * Date: 9/9/2017
  * Time: 4:09 AM
  */
@@ -10,7 +10,7 @@
 
                 <footer>
                     <div class="pull-right">
-                        Gentelella - Bootstrap Admin Template by <a href="https://www.facebook.com/glbaba.tushar">Tushar Khan</a>
+                        Gentelella - Bootstrap Admin Template by <a href="https://www.facebook.com/glbaba.tushar">Tanjil Hasan</a>
                     </div>
                     <div class="clearfix"></div>
                 </footer>
