@@ -55,9 +55,8 @@
 								<div class="banner-wrap">
 									<div class="w3agile_special_deals_grid_left_grid1">
 										<img src="images/t1.png" alt=" " class="img-responsive" />
-										<p>Quis autem vel eum iure reprehenderit qui in ea voluptate 
-											velit esse quam nihil molestiae consequatur, vel illum qui dolorem 
-											eum fugiat quo voluptas nulla pariatur</p>
+										<p>This is a test basis texts , This is a test basis texts, This is a test basis texts 
+										 , This is a test basis texts, This is a test basis texts , This is a test basis texts</p>
 										<h4>Laura</h4>
 									</div>
 								</div>
@@ -66,9 +65,8 @@
 								<div class="banner-wrap">
 									<div class="w3agile_special_deals_grid_left_grid1">
 										<img src="images/t2.png" alt=" " class="img-responsive" />
-										<p>Quis autem vel eum iure reprehenderit qui in ea voluptate 
-											velit esse quam nihil molestiae consequatur, vel illum qui dolorem 
-											eum fugiat quo voluptas nulla pariatur</p>
+										<p>This is a test basis texts , This is a test basis texts, This is a test basis texts 
+					, This is a test basis texts, This is a test basis texts , This is a test basis texts</p>
 										<h4>Michael</h4>
 									</div>
 								</div>
@@ -77,9 +75,8 @@
 								<div class="banner-wrap">
 									<div class="w3agile_special_deals_grid_left_grid1">
 										<img src="images/t3.png" alt=" " class="img-responsive" />
-										<p>Quis autem vel eum iure reprehenderit qui in ea voluptate 
-											velit esse quam nihil molestiae consequatur, vel illum qui dolorem 
-											eum fugiat quo voluptas nulla pariatur</p>
+										<p>This is a test basis texts , This is a test basis texts, This is a test basis texts 
+					, This is a test basis texts, This is a test basis texts , This is a test basis texts</p>
 										<h4>Rosy</h4>
 									</div>
 								</div>
