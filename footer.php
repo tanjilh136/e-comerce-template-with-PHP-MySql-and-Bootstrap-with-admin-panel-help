@@ -2,7 +2,7 @@
 /**
  * Footer File of Template
  * Created by PhpStorm.
- * User: Tushar Khan
+ * User: Tanjil Hasan
  * Date: 9/8/2017
  * Time: 6:12 AM
  */
@@ -29,7 +29,8 @@
         <div class="w3_footer_grids">
             <div class="col-md-3 w3_footer_grid">
                 <h3>Contact</h3>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+                <p>This is a test basis texts , This is a test basis texts, This is a test basis texts 
+					, This is a test basis texts, This is a test basis texts , This is a test basis texts </p>
                 <ul class="address">
                     <li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i><?php echo $allCategoryObject->address;  ?></li>
                     <li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:<?php echo $allCategoryObject->email;  ?>"><?php echo $allCategoryObject->email;  ?></a></li>
@@ -88,7 +89,7 @@
         </div>
         <div class="container">
             <?php date_default_timezone_set('Asia/Dhaka'); ?>
-            <p>&copy; <?php echo date('y-m-d');?> Electronic Store. All rights reserved | Design by <a href="https://www.facebook.com/glbaba.tushar">Tushar Khan</a></p>
+            <p>&copy; <?php echo date('y-m-d');?> Electronic Store. All rights reserved | Design by <a href="https://www.facebook.com/prime.1848">Tanjil Hasan</a></p>
         </div>
     </div>
 </div>
