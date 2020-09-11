@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Tushar Khan
+ * User: Tanjil Hasan
  * Date: 9/10/2017
  * Time: 3:52 AM
  */
@@ -288,7 +288,7 @@
     <!-- footer content -->
     <footer>
         <div class="pull-right">
-            Gentelella - Bootstrap Admin Template by <a href="https://www.facebook.com/glbaba.tushar">Tushar Khan</a>
+            Gentelella - Bootstrap Admin Template by <a href="https://www.facebook.com/glbaba.tushar">Tanjil Hasan</a>
         </div>
         <div class="clearfix"></div>
     </footer>
